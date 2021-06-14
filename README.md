@@ -1,1 +1,1 @@
-This is a static Google Homepage. The purpose of this project is to develop my HTML and CSS skills. 
+This is a Google Homepage. The purpose of this project is to develop my HTML and CSS skills. 
